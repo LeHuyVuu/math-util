@@ -61,3 +61,6 @@ Follow these steps to set up and run the project on your local machine.
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/LeHuyVuu/math-util.git
+### Screenshots
+![Maven and JUnit](screenshots/Maven and JUnit.jpg)
+
