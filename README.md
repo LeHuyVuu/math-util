@@ -62,5 +62,5 @@ Follow these steps to set up and run the project on your local machine.
    ```bash
    git clone https://github.com/LeHuyVuu/math-util.git
 ### Screenshots
-![Maven and JUnit](screenshots/Maven and JUnit.jpg)
+![Maven and JUnit]("C:\Users\Dell\Desktop\math-util\screenshots\Maven and JUnit.jpg")
 
