@@ -1,4 +1,4 @@
-[![Math Utility Project (CI included) | © 2024 by giáo.làng](https://github.com/LeHuyVuu/math-util/actions/workflows/maven.yml/badge.svg)](https://github.com/LeHuyVuu/math-util/actions/workflows/maven.yml)
+[![Math Utility Project (CI included)](https://github.com/LeHuyVuu/math-util/actions/workflows/maven.yml/badge.svg)](https://github.com/LeHuyVuu/math-util/actions/workflows/maven.yml)
 # 🌟 **Math Utility** 🌟
 
 ---
